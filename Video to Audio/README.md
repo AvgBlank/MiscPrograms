@@ -1,5 +1,6 @@
-Just install python and the package `moviepy` using
+Install Python and the library `moviepy` using
 
+https://www.python.org/downloads/
 ```
 pip install moviepy
 ```
